@@ -440,3 +440,6 @@ Browser Sync, among other things, provides a local server option. So, simply nav
     browser-sync start --server --directory --files "**/*"
 
 Of course, this assumes you installed browser-sync as was instructed in Module 1.
+
+
+Q: In the fifth video of the Second Module. There is a branch "gh-pages" created automatically and the video asks us to refer to the FAQ as GitHub has now been updated. I'm not sure how to create that branch. Can anyone Help Me?
